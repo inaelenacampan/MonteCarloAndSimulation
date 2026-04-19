@@ -51,7 +51,7 @@ def generate_data(n, T, alpha, zeta, rng=None):
     Génère n séries MA(2) hiérarchiques de longueur T
     """
     if rng is None:
-        rng = np.random.default_rng(42)
+        rng = np.random.default_rng(20798)
 
     x_star, mu_list, sigma2_list = [], [], []
 
