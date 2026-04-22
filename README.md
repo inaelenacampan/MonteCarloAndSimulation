@@ -1,5 +1,5 @@
 # Projet Gibbs et ABC 
-## Ina Campan, Alistair Renaud et Gildas Montcel
+## Ina Campan, Gildas Montcel et Alistair Renaud
 
 Ce projet de groupe a été réalisé dans le cadre du cours Simulation and Monte Carlo Methods (N. Chopin). Il s’appuie sur l’appendice de l’article de recherche "Component-wise Approximate Bayesian Computation via Gibbs-like steps" (publié par Grégoire Clarté, Christian P. Robert, Robin J. Ryder et Julien Stoehr).
 
